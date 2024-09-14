@@ -1,5 +1,3 @@
-# Invsto Assignment
-
 ## Inserting Data into the PostgreSQL Database
 
 ```insert_data.py``` script inserts data into the PostgreSQL database. It reads the data from the ```HINDALCO.csv``` file and inserts it into the 'stock_data' table in the database.
